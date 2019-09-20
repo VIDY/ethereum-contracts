@@ -1,0 +1,27 @@
+{
+  "name": "@vidy-dev/ethereum-wallets",
+  "version": "1.0.5",
+  "description": "Multisignature wallets for Vidy ICO and token distribution",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIDY/ethereum-contracts.git"
+  },
+  "author": "Vidy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VIDY/ethereum-contracts/issues"
+  },
+  "homepage": "https://github.com/VIDY/ethereum-contracts/tree/master/wallets#readme",
+  "devDependencies": {
+    "@vidy-dev/ethereum-utils": "^1.0.5",
+    "ganache-cli": "^6.1.6",
+    "truffle": "^4.1.13"
+  }
+}
