@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VIDY/ethereum-vidycoin.git"
+    "url": "git+https://github.com/VIDY/ethereum-contracts.git"
   },
-  "author": "jake",
-  "license": "ISC",
+  "author": "Vidy",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VIDY/ethereum-vidycoin/issues"
+    "url": "https://github.com/VIDY/ethereum-contracts/issues"
   },
-  "homepage": "https://github.com/VIDY/ethereum-vidycoin#readme"
+  "homepage": "https://github.com/VIDY/ethereum-contracts/tree/master/vidycoin#readme"
 }

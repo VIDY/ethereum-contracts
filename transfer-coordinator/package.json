@@ -6,8 +6,8 @@
   "scripts": {
     "test": "scripts/test.sh"
   },
-  "repository": "https://github.com/VIDY/ethereum-transfer-coordinator",
-  "author": "Jake Rosin <jake@vidy.com>",
+  "repository": "https://github.com/VIDY/ethereum-contracts",
+  "author": "Vidy",
   "license": "MIT",
   "dependencies": {
     "openzeppelin-solidity": "^2.3.0"
