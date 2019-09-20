@@ -1,0 +1,32 @@
+{
+  "name": "@vidy-dev/ethereum-vidycoin",
+  "version": "1.0.9",
+  "description": "Truffle module for interacting with the VidyCoin ERC20 token.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.10.0"
+  },
+  "devDependencies": {
+    "@vidy-dev/ethereum-utils": "^1.0.17",
+    "@vidy-dev/ethereum-wallets": "^1.0.5",
+    "ganache-cli": "^6.2.5",
+    "truffle": "^4.1.15",
+    "truffle-contract": "^3.0.7"
+  },
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIDY/ethereum-vidycoin.git"
+  },
+  "author": "jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIDY/ethereum-vidycoin/issues"
+  },
+  "homepage": "https://github.com/VIDY/ethereum-vidycoin#readme"
+}

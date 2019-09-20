@@ -1,0 +1,36 @@
+{
+  "name": "ethereum-escrow",
+  "version": "1.0.0",
+  "description": "Hold VidyCoins and other coins/tokens in escrow",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIDY/ethereum-escrow.git"
+  },
+  "author": "Jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIDY/ethereum-escrow/issues"
+  },
+  "homepage": "https://github.com/VIDY/ethereum-escrow#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0"
+  },
+  "devDependencies": {
+    "@vidy-dev/ethereum-utils": "^1.0.21",
+    "@vidy-dev/ethereum-vidycoin": "^1.0.9",
+    "@vidy-dev/ethereum-wallets": "^1.0.5",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "ganache-cli": "^6.6.0",
+    "openzeppelin-test-helpers": "^0.4.2",
+    "truffle": "^5.0.32"
+  }
+}
